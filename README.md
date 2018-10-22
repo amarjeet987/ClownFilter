@@ -11,4 +11,6 @@ Filter that adds a clown nose to your face using Keras and OpenCV.
 
 **4)** ```video_feed.ipynb``` contains the part where we apply the model to make us look like clowns ( xD ). I mean the file containing the openCV implementation to detect the facial keypoints in realtime.
 
-### Long live AI, Happy Coding.
+**5)** Click <a href="https://drive.google.com/open?id=1NDtYDav3QyNzk1hYVKE8v9Fm3LztBcPz">here.</a> to see how it works.
+
+Yeah, that's it I guess.
